@@ -1,0 +1,1 @@
+# Kuzzle-react-native-app-testSDK
